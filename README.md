@@ -18,7 +18,7 @@ Custom Clock App is a simple Flutter application that displays a clock with cust
 
 To get started with Custom Clock App, follow these steps:
 
-1. **Clone the Repository**: Clone this repository to your local machine using `git clone https://github.com/yourusername/custom-clock-app.git`.
+1. **Clone the Repository**: Clone this repository to your local machine using `git clone https://github.com/Pavan-Bhudiya/Flutter_introduction/blob/main/README.md`
 
 2. **Navigate to the Directory**: Move into the project directory using `cd custom-clock-app`.
 
